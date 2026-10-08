@@ -1,0 +1,7 @@
+{
+  "name": "Neural Dispatch — AI News & Research Journal",
+  "description": "An authoritative editorial blog and journal covering the latest breakthroughs, frontier foundation models, robotics, and computational research in Artificial Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
